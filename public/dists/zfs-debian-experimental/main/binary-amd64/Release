@@ -1,0 +1,5 @@
+Origin: . zfs-debian-experimental
+Label: . zfs-debian-experimental
+Archive: zfs-debian-experimental
+Architecture: amd64
+Component: main
